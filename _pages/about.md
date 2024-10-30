@@ -40,7 +40,7 @@ I am currently working at the National Geomatics Center of China，Beijing,10083
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
--  2024. 测绘学报青年编委
+- 2024. 测绘学报青年编委
 - 2023. 测绘科技进步特等奖
 - 2022. 中国科协青年托举人才工程
 - 2022. 优秀测绘工程金奖 
