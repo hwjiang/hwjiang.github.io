@@ -20,7 +20,7 @@ redirect_from:
 
 # 🧍‍♂️ Biography
 I received a Ph.D. degree in School of Remote Sensing and Information Engineering from Wuhan University of China, Wuhan, China, in 2021.
-I am currently working at the National Geomatics Center of China，Beijing,100830,China.My research interest includes remote sensing image processing, computer vision, deep learning and 3d modeling.
+I am currently working at the National Geomatics Center of China，Beijing,100830,China.My research interest includes remote sensing image processing,semantic segment,change detection,computer vision, deep learning and 3d modeling.
 
 
 # 📝 Publications
