@@ -33,7 +33,7 @@ I am currently working at the National Geomatics Center of China，Beijing,10083
 - Ma, R., Ge, X., Zhu, Q., Jia, X., Jiang, H., Chen, M., & Liu, T. (2023). Model-Driven Precise Degradation Analysis Method of Highway Marking Using Mobile Laser Scanning Point Clouds. Photogrammetric Engineering & Remote Sensing.
 - 姜慧伟,张元杰,李力勐,等.基础地理实体数据存储与交换模型研究[J].测绘通报,2024,(S1):120-125.DOI:10.13474/j.cnki.11-2246.2024.S124.
 - 张祖勋,姜慧伟,庞世燕,等.多时相遥感影像的变化检测研究现状与展望[J].测绘学报,2022,51(07):1091-1107.
-
+ 
 # 🎖 Honors and Awards
 - *2024. 测绘学报青年编委
 - *2023. 测绘科技进步特等奖
