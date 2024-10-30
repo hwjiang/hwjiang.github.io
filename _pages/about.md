@@ -25,19 +25,14 @@ I am currently working at the National Geomatics Center of China，Beijing,10083
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- 🚩[Highly Cited]Jiang, H.; Hu, X.; Li, K.; Zhang, J.; Gong, J.; Zhang, M. PGA-SiamNet: Pyramid Feature-Based Attention-Guided Siamese Network for Remote Sensing Orthoimagery Building Change Detection. Remote Sens. 2020, 12, 484.
+- Li, K.; Hu, X.; Jiang, H.; Shu, Z.; Zhang, M. Attention-Guided Multi-Scale Segmentation Neural Network for Interactive Extraction of Region Objects from High-Resolution Satellite Imagery. Remote Sens. 2020, 12, 789.
+- H. Xie, X. Hu, H. Jiang and J. Zhang, "BSSNet: Building Subclass Segmentation From Satellite Images Using Boundary Guidance and Contrastive Learning," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 15, pp. 7700-7711, 2022
+- 🚩[Highly Cited]Jiang, H.; Peng, M.; Zhong, Y.; Xie, H.; Hao, Z.; Lin, J.; Ma, X.; Hu, X. A Survey on Deep Learning-Based Change Detection from High-Resolution Remote Sensing Images. Remote Sens. 2022
+- Z. Fan, M. Wang, Y. Pi, Y. Liu and H. Jiang, "A Robust Oriented Filter-Based Matching Method for Multisource, Multitemporal Remote Sensing Images," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-16, 2023
+- Ma, R., Ge, X., Zhu, Q., Jia, X., Jiang, H., Chen, M., & Liu, T. (2023). Model-Driven Precise Degradation Analysis Method of Highway Marking Using Mobile Laser Scanning Point Clouds. Photogrammetric Engineering & Remote Sensing.
+- 姜慧伟,张元杰,李力勐,等.基础地理实体数据存储与交换模型研究[J].测绘通报,2024,(S1):120-125.DOI:10.13474/j.cnki.11-2246.2024.S124.
+- 张祖勋,姜慧伟,庞世燕,等.多时相遥感影像的变化检测研究现状与展望[J].测绘学报,2022,51(07):1091-1107.
 
 # 🎖 Honors and Awards
 - *2024. 测绘学报青年编委
