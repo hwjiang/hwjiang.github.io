@@ -39,7 +39,7 @@ I am currently working at the National Geomatics Center of China，Beijing,10083
 - *2023. 测绘科技进步特等奖
 - *2022. 中国科协青年托举人才工程
 - *2022. 优秀测绘工程金奖
-- *2020. 测绘科技进步二等奖
+- *2019. 测绘科技进步二等奖
 
 # 📖 Educations
 - *2018.09 - 2021.12, Ph.D. Wuhan University of China, photogrammetry and remote sensing.
